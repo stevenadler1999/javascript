@@ -1,0 +1,11 @@
+agrupar ficheros o cambios
+git add .
+
+crear commits 
+git commit -m "colocar descripcion del cambio"
+
+pushear commits 
+git push 
+
+status de repositorio 
+git status
